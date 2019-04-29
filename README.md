@@ -1,2 +1,2 @@
-# magharibihub.github.io
-Magharibi Innovation Hub Website
+# mih.github.io
+Magharibi Innovation Hub Portfolio
